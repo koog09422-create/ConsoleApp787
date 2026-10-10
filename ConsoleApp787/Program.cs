@@ -27,6 +27,7 @@ namespace ConsoleApp787
             {
                 x[i].print_u();
             }
+
         }
     }
 }
